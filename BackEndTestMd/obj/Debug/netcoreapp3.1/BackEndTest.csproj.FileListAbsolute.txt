@@ -1,0 +1,12 @@
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\bin\Debug\netcoreapp3.1\BackEndTest.exe
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\bin\Debug\netcoreapp3.1\BackEndTest.deps.json
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\bin\Debug\netcoreapp3.1\BackEndTest.runtimeconfig.json
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\bin\Debug\netcoreapp3.1\BackEndTest.runtimeconfig.dev.json
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\bin\Debug\netcoreapp3.1\BackEndTest.dll
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\bin\Debug\netcoreapp3.1\BackEndTest.pdb
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\obj\Debug\netcoreapp3.1\BackEndTest.AssemblyInfoInputs.cache
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\obj\Debug\netcoreapp3.1\BackEndTest.AssemblyInfo.cs
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\obj\Debug\netcoreapp3.1\BackEndTest.csproj.CoreCompileInputs.cache
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\obj\Debug\netcoreapp3.1\BackEndTest.dll
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\obj\Debug\netcoreapp3.1\BackEndTest.pdb
+C:\Users\oklik\source\repos\ConsoleCore31\BackEndTestMd\obj\Debug\netcoreapp3.1\BackEndTest.genruntimeconfig.cache

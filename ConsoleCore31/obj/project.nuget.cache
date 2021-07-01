@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jgv0iiD0Xb9CsQgB2r+djURWRdJG2h5pCDsQsRLOs+qDN4iWM2H08V0bPyhVv8XCh7FgMxTP12GnBGteD25DaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\ConsoleCore31\\ConsoleCore31.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oklik\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

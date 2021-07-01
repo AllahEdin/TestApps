@@ -1,0 +1,17 @@
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.AssemblyInfoInputs.cache
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.AssemblyInfo.cs
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.csproj.CoreCompileInputs.cache
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\ConsoleCore31.exe
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\ConsoleCore31.deps.json
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\ConsoleCore31.runtimeconfig.json
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\ConsoleCore31.runtimeconfig.dev.json
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\ConsoleCore31.dll
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\ConsoleCore31.pdb
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.dll
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.pdb
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.genruntimeconfig.cache
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.csprojAssemblyReference.cache
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\Encryption\MASTERKEY.txt
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\obj\Debug\netcoreapp3.1\ConsoleCore31.csproj.CopyComplete
+C:\Users\oklik\source\repos\ConsoleCore31\ConsoleCore31\bin\Debug\netcoreapp3.1\Encryption\ENCODED_DATA.txt

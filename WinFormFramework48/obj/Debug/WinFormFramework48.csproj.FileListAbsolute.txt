@@ -1,0 +1,10 @@
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\bin\Debug\WinFormFramework48.exe.config
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\bin\Debug\WinFormFramework48.exe
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\bin\Debug\WinFormFramework48.pdb
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\obj\Debug\WinFormFramework48.csprojAssemblyReference.cache
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\obj\Debug\WinFormFramework48.Form1.resources
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\obj\Debug\WinFormFramework48.Properties.Resources.resources
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\obj\Debug\WinFormFramework48.csproj.GenerateResource.cache
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\obj\Debug\WinFormFramework48.csproj.CoreCompileInputs.cache
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\obj\Debug\WinFormFramework48.exe
+C:\Users\oklik\source\repos\ConsoleCore31\WinFormFramework48\obj\Debug\WinFormFramework48.pdb
