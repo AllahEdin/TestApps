@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\BackEndTestMd\\BackEndTest.csproj",
+      "projectUniqueName": "C:\\Users\\oklik\\source\\repos\\TestApps\\BackEndTestMd\\BackEndTest.csproj",
       "projectName": "BackEndTest",
-      "projectPath": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\BackEndTestMd\\BackEndTest.csproj",
+      "projectPath": "C:\\Users\\oklik\\source\\repos\\TestApps\\BackEndTestMd\\BackEndTest.csproj",
       "packagesPath": "C:\\Users\\oklik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\BackEndTestMd\\obj\\",
+      "outputPath": "C:\\Users\\oklik\\source\\repos\\TestApps\\BackEndTestMd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

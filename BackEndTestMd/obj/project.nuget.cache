@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0CO/ILjjFPnd4fzMPnSLr9eHufImCRiLfwooaRj7KDm1CyvhXVD76xBtECwvQWSsUQiJlQSsKMqrNT9MDvE7EA==",
+  "dgSpecHash": "dxAH3L7NAhTl76P+TiBeVBxVvRBiYX8SDCp7N/9yKa3jRlavp1EtF9ITatYhlci8Byk97mGes/uUKxJv60iHUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\BackEndTestMd\\BackEndTest.csproj",
+  "projectFilePath": "C:\\Users\\oklik\\source\\repos\\TestApps\\BackEndTestMd\\BackEndTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

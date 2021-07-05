@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\ConsoleCore31\\ConsoleCore31.csproj",
+      "projectUniqueName": "C:\\Users\\oklik\\source\\repos\\TestApps\\ConsoleCore31\\ConsoleCore31.csproj",
       "projectName": "ConsoleCore31",
-      "projectPath": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\ConsoleCore31\\ConsoleCore31.csproj",
+      "projectPath": "C:\\Users\\oklik\\source\\repos\\TestApps\\ConsoleCore31\\ConsoleCore31.csproj",
       "packagesPath": "C:\\Users\\oklik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oklik\\source\\repos\\ConsoleCore31\\ConsoleCore31\\obj\\",
+      "outputPath": "C:\\Users\\oklik\\source\\repos\\TestApps\\ConsoleCore31\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

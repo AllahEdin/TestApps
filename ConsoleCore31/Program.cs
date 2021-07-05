@@ -3,6 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using ConsoleCore31.Encryption;
 using ConsoleCore31.MultiThreading;
+using ConsoleCore31.MultiThreading.DataFlow;
 
 namespace ConsoleCore31
 {
@@ -44,7 +45,7 @@ namespace ConsoleCore31
 		static void Main(string[] args)
 		{
 
-			RsaEncryptionTest semaphoreTest = new RsaEncryptionTest();
+			new BlockPipelineTest();
 			
 			Console.ReadKey();
 		}
